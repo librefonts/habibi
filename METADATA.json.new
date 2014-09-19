@@ -1,0 +1,32 @@
+{
+  "name": "Habibi",
+  "designer": "Magnus Gaarde",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Serif",
+  "size": 21968,
+  "fonts": [
+    {
+      "name": "Habibi",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Habibi-Regular-TTF.ttf",
+      "postScriptName": "Habibi-Regular",
+      "fullName": "Habibi",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\nwith Reserved Font Name \"Habibi\"."
+    },
+    {
+      "name": "Habibi",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Habibi-Regular.ttf",
+      "postScriptName": "Habibi-Regular",
+      "fullName": "Habibi-Regular",
+      "copyright": "Copyright (c) 2011, Sorkin Type Co (www.sorkintype.com)\rwith Reserved Font Name \"Habibi\"."
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2011-12-19"
+}
